@@ -8,9 +8,10 @@
       maxIdle="2"
       maxWaitMillis="5000"
       driverClassName="org.postgresql.Driver"
-      url="jdbc:postgresql://ec2-54-217-204-34.eu-west-1.compute.amazonaws.com:5432/d3qm9e2a3f6n5k"
-      username="dylqbrzsivrdpb"
-      password="8aa762ebb3d6cf9736a1fdd61f4f01f7c833bffabf66e6bee3c5158aceecd79f"/>
+      url="jdbc:postgresql://ec2-79-125-26-232.eu-west-1.compute.amazonaws.com:5432/d7d402mj03bemu"
+      username="pjcrfecqzjfenx"
+      password="87b09b24d5442be546bcdf2e47fe0463e522b8687e206b13015252c5c8fc77d5
+"/>
     
     <!-- Switch off session serialization -->
     <Manager pathname=""/>
